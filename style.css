@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0 ;
+}
+body{
+    background-color:#E2BBE9;
+    margin: 5rem;
+    display: flex;
+    justify-content: center;
+   
+}
+.container{
+    background-color:#5A639C;
+    /* background-color:rgb(221, 226, 238); */
+    padding: 2rem;
+    border-radius:13px;
+    border: none;
+}
+.btn_class{
+    height: 3rem;
+    width: 4rem;
+    margin: 7px;
+    padding: 7px;
+    border-radius: 9px;
+    font-size: 1.25rem;
+    border: none;
+    font-style: normal;
+    background-color: #F7F9F2;
+    color: black;
+    cursor: pointer;
+}
+#screen{
+    width: 18rem;
+    border: none;
+    
+}
